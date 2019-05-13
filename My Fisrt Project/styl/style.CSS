@@ -1,0 +1,15 @@
+.class{
+	color: green;
+}
+.row {
+	background-color: red;
+}
+.main {
+	background-color: blue;
+}
+.nav-link  {
+	background-color: yellow;
+	margin-left: 15px;
+	border-radius: 12px;
+	border: 2px solid blue; 
+}
